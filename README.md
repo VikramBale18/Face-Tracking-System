@@ -9,7 +9,7 @@
 4. GUPTA SAHIL DILIP 
 
 ### Project Guides
-    No guides assigned.
+    Prof.Dhanashree Kangane (Rizvi College Of Engineering)
 
 ### Deployment Steps
 Please follow the below steps to run this project.
